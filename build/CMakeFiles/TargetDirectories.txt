@@ -1,0 +1,3 @@
+/home/jamesl/Project1/build/CMakeFiles/rebuild_cache.dir
+/home/jamesl/Project1/build/CMakeFiles/welcome.dir
+/home/jamesl/Project1/build/CMakeFiles/edit_cache.dir
