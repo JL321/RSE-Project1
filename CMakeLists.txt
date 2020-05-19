@@ -1,3 +1,6 @@
+#Code Largely Derived from Gazebo Plugin Tutorial at http://gazebosim.org/t    utorials/?tut=plugins_hello_world
+
+
 cmake_minimum_required(VERSION 3.10 FATAL_ERROR)
 
 find_package(gazebo REQUIRED)

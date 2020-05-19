@@ -1,5 +1,7 @@
 #include <gazebo/gazebo.hh>
 
+//Code Largely Derived from Gazebo Plugin Tutorial at http://gazebosim.org/tutorials/?tut=plugins_hello_world
+
 namespace gazebo
 {
 	class WelcomePlugin : public WorldPlugin
